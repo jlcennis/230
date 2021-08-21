@@ -1,1 +1,13 @@
 # 230
+
+The Gaming Room was a mobile app game developer who had previously launched a puzzle competition game on the Android platform with great success. The customer wanted to create a web-based version of its existing Android app so that it could be played on a variety of platforms and devices.
+
+I developed a detailed suggestion section for the client that included the host operating system (OS), memory and storage management solutions on host servers, the API framework, security, and the advantages of launching the product using serverless architecture. I presented a compelling argument for why a cloud platform was the best option for the customer and their objectives.
+
+Understanding the structure of the relationships between entities representing app components was made easier by analyzing the domain model as a UML class diagram. This aided in the creation of compact classes with simple methods that directly leveraged other entities to construct a clean prototype.
+
+A deeper dive into the intricacies between the platforms on the client side could improve the evaluation part comparing and contrasting popular OSs (i.e. Mac, Windows, Linux) and mobile platforms. The key client-side concern is the web browser, as it is the core engine that runs the program for the client. For web-based solutions, research on the differences between operating systems yielded minimal results. The preference of operating systems for specific browsers (e.g., Windows for Edge, Mac for Safari, etc.) might be investigated further to see if non-favored browsers impose technical or performance limits.
+
+When building web-based apps, the user's primary concerns are speed and intuitiveness (i.e. usability). Quality attributes (such as appearance and feel) are equally significant, but they pale in comparison to speed and utility. If the consumer doesn't like the design of the app, they may continue to use it, but if the functionality is confused or slow, they will abandon it. User requirements are crucial since, as the product's end user, they are the client's primary source of money.
+
+To create software, start with a general concept and work your way up to precision. To get to the ultimate solution, start with high-level goals and work your way down through iterations. A client's business objectives, for example, might be broken down into functional requirements that outline the major components of functionality required to achieve those goals. Technological requirements, which explain the technical method to functional fulfillment, can be split down further into functional requirements. The final solution can then be translated from technical requirements into design documentation, architecture, and code.
